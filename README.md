@@ -68,6 +68,30 @@ Histogramas são super úteis para compreender os diferentes aspectos de dados q
 3. Forma
 4. Outliers
 
-## Aula 3: Lecture 03. Dias úteis x fins de semana - qual a diferença?
+## Aula 2: Lecture 03. Dias úteis x fins de semana - qual a diferença?
 
 É  possível observar que o número de cães é igual durante a semana e no fins de semana mas a propagação varia.
+
+
+## Aula 2: Lecture 04. Introdução ao resumo de cinco números.
+
+
+Calculando o five number summary (resumo em cinco números)
+
+O five number summary consiste em 5 valores:
+
+    > **Mínimo**: O menor número no conjunto de dados.
+    > **Q1**​: O valor de tal forma que 25% dos dados sejam menores que ele.
+    > **Q2**​: O valor tal que 50% dos dados sejam menores que ele.
+    > **Q3**​: O valor de tal forma que 75% dos dados sejam menores que ele.
+    > **Máximo**: O maior valor no conjunto de dados.
+
+No vídeo acima nós vimos que calcular cada um desses valores era essencialmente encontrar a mediana de vários conjuntos de dados diferentes. Porque nós estamos, essencialmente, calculando várias medianas, o cálculo depende se temos um valor numérico par ou ímpar.
+Amplitude
+
+A amplitude é então calculada como a diferença entre o máximo e o mínimo.
+IQR
+
+A amplitude interquartil é calculada como a diferença entre Q3 and Q1​.
+
+
