@@ -4,6 +4,6 @@ usernames = []
 # write your for loop here
 
 for name in names:
-    usernames.append(name.string)
+    usernames.append(name)
     
 print(usernames)
