@@ -67,3 +67,7 @@ Histogramas são super úteis para compreender os diferentes aspectos de dados q
 2. Dispersão
 3. Forma
 4. Outliers
+
+## Aula 3: Lecture 03. Dias úteis x fins de semana - qual a diferença?
+
+É  possível observar que o número de cães é igual durante a semana e no fins de semana mas a propagação varia.
