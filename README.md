@@ -47,7 +47,7 @@ To list enviroments
 
 # 01/DEC/18 Aula 2 - Estatística Descritiva - Parte II
 
-## Lecture 01. O que são medidas de dispersão?
+## Aula 2: Lecture 01. O que são medidas de dispersão?
 
 
 Medidas de dispersão (spread) são usadas para nos dar uma ideia do quão dispersos nossos dados são um do outro. Medidas comuns de dispersão incluem:
@@ -57,3 +57,13 @@ Medidas de dispersão (spread) são usadas para nos dar uma ideia do quão dispe
 2. Amplitude interquartil (IQR)
 3. Desvio-padrão
 4. Variância
+
+
+## Aula 2: Lecture 02. Histogramas
+
+Histogramas são super úteis para compreender os diferentes aspectos de dados quantitativos. Nos tópicos a seguir você verá histogramas sendo usados o tempo todo para ajudar você a compreender os quatro aspectos que destacamos anteriormente sobre uma variável quantitativa:
+
+1. Centro
+2. Dispersão
+3. Forma
+4. Outliers
